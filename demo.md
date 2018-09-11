@@ -1,6 +1,7 @@
 ### Checklist
 there is a chrome plugin which will open all the tabs for sales team so that they can demonstrate our app easily and conveniently to a customer. 
 The training scripts are also provided inside this plugin. 
+https://chrome.google.com/webstore/detail/onetrust-demo-tabs/bghgknpakkkfbjfhfdhcbdcdccompbpj/related?hl=en-US&gl=GB
 ### what is OneTrust?
 OneTrust helps organizations comply with global data privacy laws and protect the personal information of their emoloyees and customers.
 ### Who are we?
