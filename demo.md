@@ -1,4 +1,3 @@
-## Demo 1 for a potential customer
 ### what is OneTrust?
 OneTrust helps organizations comply with global data privacy laws and protect the personal information of their emoloyees and customers.
 ### Who are we?
@@ -23,8 +22,8 @@ OneTrust helps organizations comply with global data privacy laws and protect th
 * allows customer to integrate different services
 * the lists are keeping growing as the number of customers grow
 
-------------------------------------------------------------------------
-### login in to the device
+------------------------------login in to the device------------------------------------------
+
 ## Part 1 - privacy program management tools
 ### Flow
 * business user experience
