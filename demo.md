@@ -19,5 +19,8 @@ OneTrust helps organizations comply with global data privacy laws and protect th
   * include visualizations to help customers have better understanding of their data
   * send out assessment and label risks and keep track of all the changes
 * marketing & web compliance tools
-  * 
+### powerful ecosystem of integrations available
+* allows customer to integrate different services
+* the lists are keeping growing as the number of customers grow
+
 
