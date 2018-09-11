@@ -23,4 +23,12 @@ OneTrust helps organizations comply with global data privacy laws and protect th
 * allows customer to integrate different services
 * the lists are keeping growing as the number of customers grow
 
+------------------------------------------------------------------------
+### login in to the device
+## Part 1 - privacy program management tools
+### Flow
+* business user experience
+* reports & outputs
+* design & setup
 
+## Part 2 - marketing & web compliance tools
